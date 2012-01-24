@@ -6,4 +6,7 @@
   <packaging>war</packaging>
   <name>XSSHLab</name>
   <description>XSSHLab</description>
+  
+  <repositories>
+  </repositories>
 </project>
